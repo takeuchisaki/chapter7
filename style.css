@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  width: 100%;
+  height: 400px;
+  background-image: url(../../img/chapter7-img/mv.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+
+h1 {
+  padding: 20px;
+  color: #777777;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.blog-item {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #C0C0C0;
+}
