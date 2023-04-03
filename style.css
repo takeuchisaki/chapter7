@@ -7,7 +7,7 @@
 .main-visual {
   width: 100%;
   height: 400px;
-  background-image: url(../../img/chapter7-img/mv.jpg);
+  background-image: url(chapter7-img/mv.jpg);
   background-position: bottom;
   background-size: cover;
 }
